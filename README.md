@@ -27,4 +27,12 @@ A simple and efficient To-Do List web application to keep track of tasks and boo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/rasyidar/p1_to-do-list.git
+   git clone https://github.com/rasyidzya/p1_to-do-list.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd p1_to-do-list
+3. Open VScode (If using VSCode)
+   ```bash
+   code .
+4. Open with Live Server or directly open index.html in a browser.
