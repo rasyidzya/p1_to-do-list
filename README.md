@@ -36,3 +36,15 @@ A simple and efficient To-Do List web application to keep track of tasks and boo
    ```bash
    code .
 4. Open with Live Server or directly open index.html in a browser.
+
+## Contributing
+1. Fork the project.
+2. Create your feature branch (git checkout -b feature/AmazingFeature).
+3. Commit your changes (git commit -m 'Add some AmazingFeature').
+4. Push to the branch (git push origin feature/AmazingFeature).
+5. Open a pull request.
+   
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+🔗 Live Demo: https://rasyidzya.github.io/p1_to-do-list
