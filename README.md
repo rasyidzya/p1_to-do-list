@@ -21,7 +21,7 @@ A simple and efficient To-Do List web application to keep track of tasks and boo
 
 ### Prerequisites
 
-- A modern web browser like Chrome, Firefox, or Edge.
+- A modern web browser like Chrome, Firefox, Edge, Safari, or else.
 
 ### Installation and Setup
 
